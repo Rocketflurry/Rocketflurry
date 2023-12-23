@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rocketflurry
+- 👋 Hi, I’m @Rocketraccoon
 - 👀 I’m interested in rocket dynamics simulation
 - 🌱 I’m currently learning C++
 - 📫 How to reach me vincent.ning990523@gmail.com
